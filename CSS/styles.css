@@ -4,50 +4,31 @@ body {
 	font-family: 'Montserrat', sans-serif;
 }
 h1 {
-	color: #c60c30;
+	color: #fa4616;
 	margin-top: 0;
 	font-family: 'Roboto Slab', serif;
 }
 h3 {
-	color: #002244;
+	color: #0021a5;
 	font-family: 'Roboto Slab', serif;
 }
 .top-container {
-	background-color: #b0b7bc;
+	background-color: #ffefcf;
 	position: relative;
 	padding-top: 100px;
 }
 .middle-container {
-	background-color: red;
-	height: 200px;
-	width: 200px;
 }
 .bottom-container {
-	background-color: blue;
-	height: 200px;
-	width: 200px;
 }
-.train {
-	border-color: #002244;
-	border: solid 5px;
-	border-top-left-radius: 15%;
-	border-bottom-right-radius: 15%;
-	width: 1066px;
-	height: 600px;
-	margin-top: 100px;
-	margin-bottom: 50px;
-}
-.top-smoke {
-	height: 180px;
-	width: 320px;
+
+.top-cloud {
 	position: absolute;
-	right: 400px;
-	top: 0;
+	right: 300px;
+	top: 50;
 }
-.bottom-smoke {
-	height: 180px;
-	width: 320px;
+.bottom-cloud {
 	position: absolute;
-	left: 400px;
-	bottom: 650px;
+	left: 300px;
+	bottom: 300px;
 }
